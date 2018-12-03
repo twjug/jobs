@@ -16,14 +16,21 @@ And please add information about:
 ### for employer (求才方):
 
 歡迎至 [issues tab](https://github.com/twjug/jobs/issues/) 創建新的求才 issue！  
-期望能附註薪資範圍，以供瀏覽者預估職能程度。
-原因請參閱 [企業在社群招募人才，主管會想知道的細節](https://medium.com/@kevinzhuang/%E4%BC%81%E6%A5%AD%E5%9C%A8%E7%A4%BE%E7%BE%A4%E6%8B%9B%E5%8B%9F%E4%BA%BA%E6%89%8D-%E4%B8%BB%E7%AE%A1%E6%9C%83%E6%83%B3%E7%9F%A5%E9%81%93%E7%9A%84%E7%B4%B0%E7%AF%80-b87490aa92b6#.o3z94ud6b)
 
-也希望在順利徵得同事後回來將票 close 掉。
+* 期望能附註薪資範圍，以供瀏覽者預估職能程度。請參閱 [企業在社群招募人才，主管會想知道的細節](https://medium.com/@kevinzhuang/%E4%BC%81%E6%A5%AD%E5%9C%A8%E7%A4%BE%E7%BE%A4%E6%8B%9B%E5%8B%9F%E4%BA%BA%E6%89%8D-%E4%B8%BB%E7%AE%A1%E6%9C%83%E6%83%B3%E7%9F%A5%E9%81%93%E7%9A%84%E7%B4%B0%E7%AF%80-b87490aa92b6#.o3z94ud6b)
+* 請依最新修正的 [就業服務法第五條第 6 款](https://laws.mol.gov.tw/FLAW/FLAWDOC01.aspx?lsid=FL015128&flno=5) 規定標示資薪未達四萬元之職缺薪資範圍
+  > 六、提供職缺之經常性薪資未達新臺幣四萬元而未公開揭示或告知其薪資範圍。
+* 若順利徵得同事後請將票 close 掉。
 
-另外若有需要另外的 label 也請留言告知，  
-會盡力依職缺描述加上 label 以利搜尋。
+另外若有需要另外的 label 也請留言告知，會盡力依職缺描述加上 label 以利搜尋。
 
+#### 經常性薪資
+
+引用勞動部 [工時統計](https://statdb.mol.gov.tw/html/com/st0302.htm) 術語解說：
+
+> 指每月給付受僱員工之工作報酬：包括本薪及按月給付之固定津貼、交通費、膳食費、水電費、按月發放之工作(生產、績效、業績)獎金及全勤獎金等。其以實物方式給付者，應按時價折值計入；以上均不應扣除應付所得稅、保險費及工會會費。
+
+它應排除獎金與加班費用。
 
 -----
 
