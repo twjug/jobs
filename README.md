@@ -47,6 +47,11 @@ GitHub issues system 有非常方便的 label 與 filter 可以搭配使用，
 
 -----
 
+### 從 2019/12/19 開始，Github 徵才貼文新增下列規定:
+- 90 天沒任何活動就會標成 [label: outdated](https://github.com/twjug/jobs/issues?q=is%3Aissue+is%3Aopen+label%3Aoutdated)
+- 標成 [label: outdated](https://github.com/twjug/jobs/issues?q=is%3Aissue+is%3Aopen+label%3Aoutdated) 後 7 天沒活動就會自動關閉
+- 關閉後 30 天會鎖住討論串
+
 ###### License
 本文取自 [f2etw/jobs](https://github.com/f2etw/jobs/) ，![](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)  
 採用 [CC0](https://creativecommons.org/publicdomain/zero/1.0/) 授權釋出
